@@ -1,0 +1,52 @@
+.background{
+    background-color: #DAA06D;
+}
+.color{
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.nav-item{
+    padding: 10px;
+    padding-left: 1px;
+}
+.tex{
+    padding-left:10px ;
+}
+.img{
+    padding: 10px;
+}
+.margine-bottom{
+    margin-bottom: 10rem;
+}
+.spa{
+    padding-top: 5px;
+}
+.ime{
+    padding-top: 5px;
+}
+.tee{
+color: #DAA06D;
+
+}
+.rum{
+    padding-left: 10px;  
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 77px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
